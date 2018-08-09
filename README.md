@@ -27,7 +27,7 @@ Syntax highlighted code block
 <img src="https://github.com/zephyrS9/Faner/blob/master/Octocat.png" alt="hi" class="inline"/>
 ![Image](https://www.google.de/search?q=naixin+fan&rlz=1C5CHFA_enDE714DE714&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj4-prvl-DcAhXRKlAKHR-HBcIQ_AUICygC&biw=2560&bih=1321#imgrc=Pz5P6Z6VtJlb2M:)
 
-![what is fuck](https://github.com/zephyrS9/Faner/blob/master/tt/Octocat.png)
+![fuck](https://github.com/zephyrS9/Faner/blob/master/tt/Octocat.png)
 Format: ![Alt Text](url)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
