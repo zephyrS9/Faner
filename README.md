@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image of Octocat]
+![GitHub Logo](/blob/master/Octocat.png)
 (https://github.com/zephyrS9/Faner/blob/master/Octocat.png)
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
