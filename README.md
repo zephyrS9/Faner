@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ![test](https://github.com/zephyrS9/Faner/blob/master/tt/Octocat.png)
-<img src="https://github.com/zephyrS9/Faner/blob/master/tt/Octocat.png" alt="hi" class="inline"/>
+<img src="https://github.com/zephyrS9/Faner/blob/master/Octocat.png" alt="hi" class="inline"/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
