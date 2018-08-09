@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![test](https://github.com/zephyrS9/Faner/blob/master/tt/Octocat.png)
+![test](github.com/zephyrS9/Faner/blob/master/tt/Octocat.png)
 <img src="https://github.com/zephyrS9/Faner/blob/master/Octocat.png" alt="hi" class="inline"/>
 ![Image](https://www.google.de/search?q=naixin+fan&rlz=1C5CHFA_enDE714DE714&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj4-prvl-DcAhXRKlAKHR-HBcIQ_AUICygC&biw=2560&bih=1321#imgrc=Pz5P6Z6VtJlb2M:)
 
