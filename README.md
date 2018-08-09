@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](https://www.google.de/search?q=github+cat&rlz=1C5CHFA_enDE714DE714&tbm=isch&source=iu&ictx=1&fir=ebMteblF01s_1M%253A%252CH8p6HHzcTglWAM%252C_&usg=AFrqEzc5c92CUVrubsCwXB2uJSHHmBmE_A&sa=X&ved=2ahUKEwjmn4GR_N_cAhXFmLQKHRw2AgsQ9QEwAXoECAQQBA#imgrc=ebMteblF01s_1M:)
+![Image](https://github.com/zephyrS9/Faner/blob/master/Octocat.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
