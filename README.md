@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 ![test](https://github.com/zephyrS9/Faner/blob/master/tt/Octocat.png)
 <img src="https://github.com/zephyrS9/Faner/blob/master/Octocat.png" alt="hi" class="inline"/>
+![Image](../blob/master/Octocat.png?raw=true)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
