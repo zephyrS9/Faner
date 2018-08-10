@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ![test](https://www.nasa.gov/sites/default/files/images/409953main_PIA00404_full.jpg)
-![test2](https://github.com/zephyrS9/Faner/blob/master/tt/Octocat.png)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
